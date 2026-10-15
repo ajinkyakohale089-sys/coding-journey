@@ -1,0 +1,234 @@
+# 🚀 My Coding Journey
+
+Welcome to my Coding Journey repository! 👋
+
+This repository documents my journey as a developer, including coding practice, technical learning, projects, problem-solving, and continuous improvement.
+
+My goal is to strengthen my programming fundamentals, build real-world applications, learn modern technologies, and become a better software developer every day.
+
+---
+
+## 🎯 My Goals
+
+- Strengthen programming fundamentals and problem-solving skills.
+- Improve JavaScript and TypeScript knowledge.
+- Learn advanced frontend development concepts.
+- Build scalable and responsive web applications.
+- Improve Git and GitHub workflow.
+- Learn backend development and database management.
+- Explore data structures and algorithms.
+- Build practical projects that solve real-world problems.
+- Maintain consistency through daily coding practice.
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Angular
+- Responsive Web Design
+- REST API Integration
+- RxJS
+- State Management
+
+### Backend Development
+- Node.js
+- Express.js
+- RESTful APIs
+- Authentication and Authorization
+- API Validation
+- Error Handling
+
+### Database
+- MySQL
+- MongoDB
+- Database Design
+- CRUD Operations
+- SQL Queries
+- Data Relationships
+
+### Developer Tools
+- Git
+- GitHub
+- Visual Studio Code
+- npm
+- Chrome DevTools
+- Postman
+
+### Future Learning
+- Data Structures and Algorithms
+- Web Performance Optimization
+- Testing and Debugging
+- Web Security
+- Deployment and CI/CD
+- Cloud Fundamentals
+- AI Integration in Web Applications
+
+---
+
+## 📚 My Learning Roadmap
+
+### Phase 1: Programming Fundamentals
+- [ ] Variables and data types
+- [ ] Operators and expressions
+- [ ] Conditions and loops
+- [ ] Functions
+- [ ] Arrays and objects
+- [ ] Scope and closures
+- [ ] Error handling
+- [ ] Problem-solving exercises
+
+### Phase 2: Frontend Development
+- [ ] HTML structure and semantic elements
+- [ ] CSS layouts, Flexbox, and Grid
+- [ ] Responsive web design
+- [ ] JavaScript fundamentals
+- [ ] DOM manipulation
+- [ ] Asynchronous JavaScript
+- [ ] Promises and async/await
+- [ ] TypeScript fundamentals
+
+### Phase 3: Advanced Angular
+- [ ] Components and modules
+- [ ] Data binding and directives
+- [ ] Services and dependency injection
+- [ ] Routing and lazy loading
+- [ ] Reactive forms and validation
+- [ ] RxJS operators
+- [ ] HTTP interceptors
+- [ ] Authentication and route guards
+- [ ] State management
+- [ ] Unit testing
+- [ ] Performance optimization
+
+### Phase 4: Backend Development
+- [ ] Node.js fundamentals
+- [ ] Express.js
+- [ ] REST API development
+- [ ] Middleware
+- [ ] Authentication and authorization
+- [ ] Input validation
+- [ ] Error handling and logging
+- [ ] API security
+
+### Phase 5: Database Management
+- [ ] Database fundamentals
+- [ ] Tables and relationships
+- [ ] SQL queries
+- [ ] Joins and indexes
+- [ ] CRUD operations
+- [ ] Database normalization
+- [ ] Query optimization
+- [ ] Database integration with Node.js
+
+### Phase 6: Git and GitHub
+- [ ] Create repositories
+- [ ] Understand Git workflow
+- [ ] Add and commit changes
+- [ ] Push code to GitHub
+- [ ] Create and merge branches
+- [ ] Resolve merge conflicts
+- [ ] Use pull requests
+- [ ] Write useful commit messages
+- [ ] Maintain project documentation
+
+### Phase 7: Real-World Projects
+- [ ] Responsive portfolio website
+- [ ] Task management application
+- [ ] REST API with authentication
+- [ ] Dashboard with charts and analytics
+- [ ] Full-stack application using Angular and Node.js
+- [ ] Deploy a complete application
+
+---
+
+## 💻 Projects
+
+| Project | Technologies | Status |
+|---|---|---|
+| Coding Practice | JavaScript, TypeScript | In Progress |
+| Portfolio Website | HTML, CSS, JavaScript | Planned |
+| Task Management App | Angular, Node.js | Planned |
+| Analytics Dashboard | Angular, Charts | Planned |
+| Full-Stack Web App | Angular, Node.js, Database | Planned |
+
+Project statuses will be updated as development progresses.
+
+---
+
+## 📅 Daily Coding Routine
+
+My target routine:
+
+- Practice coding consistently.
+- Learn one new concept at a time.
+- Solve programming problems.
+- Implement concepts through small examples.
+- Build and improve practical projects.
+- Document what I learn.
+- Review previous code and refactor when necessary.
+- Commit meaningful changes to GitHub.
+
+---
+
+## 📈 Progress Tracker
+
+- **Repository Created:** October 2026
+- **Current Focus:** Building consistent coding habits
+- **Current Learning Stage:** Ongoing
+- **Projects Completed:** Update as projects are finished
+- **Problems Solved:** Update as practice grows
+- **Latest Milestone:** Created my first GitHub repository
+
+---
+
+## 🌱 My Coding Principles
+
+1. Write clean, readable, and maintainable code.
+2. Understand concepts instead of only copying code.
+3. Practice problem-solving regularly.
+4. Learn from bugs and mistakes.
+5. Use Git to track development.
+6. Document important decisions and lessons.
+7. Focus on building working projects.
+8. Improve a little every day.
+
+---
+
+## 📌 How to Use This Repository
+
+This repository may contain:
+
+- Coding practice examples
+- Learning notes
+- Useful code snippets
+- Small programming exercises
+- Project source code
+- Development resources
+- Progress updates
+
+Folders may be organized by language, topic, or project as the repository grows.
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub:** https://github.com/YOUR_USERNAME
+- **LinkedIn:** Add your LinkedIn profile URL here
+- **Portfolio:** Add your portfolio URL when available
+
+---
+
+## ⭐ Final Note
+
+Every experienced developer started by learning the basics and writing their first lines of code.
+
+This repository represents my commitment to learning, building, experimenting, and improving as a developer.
+
+**Learn. Code. Build. Debug. Repeat. 🚀**
+
+Thanks for visiting my Coding Journey!
